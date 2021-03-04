@@ -1,4 +1,4 @@
-# jacobi_mpi_parallel
+# Jacobi迭代的串行和MPI并行C语言实现
 
 ## jacobi_series.c
 
